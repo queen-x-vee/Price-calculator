@@ -1,0 +1,38 @@
+body{
+    box-sizing: border-box;
+    background-color: #f8f8ff;
+}
+
+table{
+    background-color: maroon;
+    width: 40%;
+    margin: 20px auto;
+    height: 75vh;
+    font-size: large;
+}
+td{
+    border: 1px solid #f9f8ff;
+}
+td{
+ padding: 0 30px;   
+}
+input{
+    width: 25%;
+}
+input[checkbox]{
+    width: 200%;
+}
+div{
+    margin: 5px auto;
+    width: 25%;
+}
+div span{
+    width: 20%;
+    margin: 4px auto;
+    border: 1.5px solid maroon;
+    text-align: center;
+}
+button{
+    width: 100%;
+    border-radius: 10px;
+}
